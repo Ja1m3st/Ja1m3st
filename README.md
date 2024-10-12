@@ -37,8 +37,6 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
-<br/>  
 <!--Intro end-->
 <table align="center">
   
