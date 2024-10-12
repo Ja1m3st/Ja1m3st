@@ -55,7 +55,11 @@
 </tr>
 </table>
 
-## Tech Stack
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <table align="center">
   
@@ -71,7 +75,9 @@
   <img src="https://skillicons.dev/icons?i=docker&perline=14"/>
   <img src="https://skillicons.dev/icons?i=cmake&perline=14"/>
 </div>
+
 <td align="top" width="15%">
+
 <h3 align="center">Data Base</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws&perline=14"/>
@@ -90,9 +96,9 @@
 </td><td valign="top" width="15%">
 
 <h3 align="center">Others </h3>
-<img src="https://skillicons.dev/icons?i=github&perline=14"/>
-<img src="https://skillicons.dev/icons?i=git&perline=14"/>
-<img src="https://skillicons.dev/icons?i=linux&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=github&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=git&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=linux&perline=14"/>
 <div align="center">  
 </div>
 
@@ -106,22 +112,13 @@
 </p>        
 <!--- stats (end) -->
 
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,mysql,mongodb,firebase,linux,bash,git,github,aws,docker,cmake &perline=14" />
-  </a>
-</p>
 
-
-<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
