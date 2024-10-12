@@ -1,17 +1,5 @@
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Jaime 👋</h1></summary>
-  </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
+# 💫 About Me:
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
@@ -28,15 +16,8 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+# 👨🏻‍💻 Technologies That I Know:
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -102,7 +83,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">🤝 Connect With Me</h2></summary>
   </ul>
 </div>
 
