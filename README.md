@@ -2,9 +2,7 @@
 # 💫 About Me:
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C** in 42 Madrid
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently learning on **C** in 42 Madrid
 
 - ☁️ I've keen interest in developing low level. So,I'm learning **C**
 
