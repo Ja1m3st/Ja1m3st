@@ -40,6 +40,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c&perline=14" />
   <img src="https://skillicons.dev/icons?i=java&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=python&perline=14"/>
   <img src="https://skillicons.dev/icons?i=bash&perline=14"/>
   <img src="https://skillicons.dev/icons?i=docker&perline=14"/>
   <img src="https://skillicons.dev/icons?i=cmake&perline=14"/>
