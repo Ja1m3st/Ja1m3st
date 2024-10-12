@@ -71,7 +71,7 @@
   <img src="https://skillicons.dev/icons?i=docker&perline=14"/>
   <img src="https://skillicons.dev/icons?i=cmake&perline=14"/>
 </div>
-
+<td align="top" width="15%">
 <h3 align="center">Data Base</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws&perline=14"/>
