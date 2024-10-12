@@ -29,8 +29,6 @@
 
 </tr>
 </table>
-
-# ☁️ Languages:
 <!--Intro end-->
 <table align="center">
   
