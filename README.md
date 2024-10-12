@@ -60,7 +60,7 @@
 <table align="center">
   
 <tr>
-<td align="top" width="33%">
+<td align="top" width="15%">
 
 
 <h3 align="center">Backend</h3>
@@ -80,16 +80,19 @@
   <img src="https://skillicons.dev/icons?i=mysql&perline=14"/>
 </div>
   
-</td><td valign="top" width="33%">
+</td><td valign="top" width="15%">
   
 <h3 align="center">Frontend </h3>
   <img src="https://skillicons.dev/icons?i=html&perline=14"/>
   <img src="https://skillicons.dev/icons?i=css&perline=14"/>
 <div align="center">
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="15%">
 
-<h3 align="center">Language </h3>
+<h3 align="center">Others </h3>
+<img src="https://skillicons.dev/icons?i=github&perline=14"/>
+<img src="https://skillicons.dev/icons?i=git&perline=14"/>
+<img src="https://skillicons.dev/icons?i=linux&perline=14"/>
 <div align="center">  
 </div>
 
