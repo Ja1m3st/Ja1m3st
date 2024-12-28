@@ -1,16 +1,16 @@
 <!--h1 without bottom border-->
-# 💫 About Me:
+# 💫 Sobre mí:
 
 <!--Intro start-->
-- 🔭 I’m currently learning on **C** in 42 Madrid
+- 🔭 Actualmente estoy aprendiendo **C** en 42 Madrid
 
-- ☁️ I've keen interest in developing low level. So,I'm learning **C**
+- ☁️ Tengo un gran interés en el desarrollo de bajo nivel. Por eso, estoy aprendiendo **C**
 
-- 💬 Ask me about **C, Java, HTML, CSS, AWS, Firebase, Mysql, MongoDB**
+- 💬 Pregúntame sobre **C, Java, HTML, CSS, AWS, Firebase, Mysql, MongoDB**
 
-- 📫 Feel free to reach me out **sanchezguineajaime@gmail.com**
+- 📫 No dudes en contactarme **sanchezguineajaime@gmail.com**
 
-# 👨🏻‍💻 Technologies That I Know:
+# 👨🏻‍💻 Tecnologías que conozco:
 
 <table align="center">
 <tr border="none">
