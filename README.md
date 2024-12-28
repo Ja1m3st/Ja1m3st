@@ -1,11 +1,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ja1m3st&theme=gruvbox&show_icons=true&count_private=true" />
-  <br></br>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ja1m3st&theme=gruvbox&show_icons=true&count_private=true" />
+  <br>
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1m3st&layout=compact&theme=gruvbox&show_icons=true"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1m3st&layout=compact&theme=gruvbox&show_icons=true"/>
   </td>
 </tr>
 </table>
