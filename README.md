@@ -1,37 +1,12 @@
-<!--h1 without bottom border-->
-# 💫 Sobre mí:
-
-<!--Intro start-->
-- 🔭 Actualmente estoy aprendiendo **C** en 42 Madrid
-
-- ☁️ Tengo un gran interés en el desarrollo de bajo nivel. Por eso, estoy aprendiendo **C**
-
-- 💬 Pregúntame sobre **C, Java, HTML, CSS, AWS, Firebase, Mysql, MongoDB**
-
-- 📫 No dudes en contactarme **sanchezguineajaime@gmail.com**
-
-# 🐝 Proyectos mas destacables:
-
-- **Minishell**: *Simulación de una shell.*
-- **Push_swap**: *Algoritmo de ordenación.*
-- **Pipex**: *Redirección de comandos.*
-- **So Long**: *Juego 2D.*
-
-# 👨🏻‍💻 Tecnologías que conozco:
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ja1m3st&theme=gruvbox&show_icons=true&count_private=true" />
   <br></br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=gruvbox&hide_border=false" /> 
 </td>
-
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ja1m3st&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1m3st&layout=compact&theme=gruvbox&show_icons=true"/>
   </td>
-
 </tr>
 </table>
 <!--Intro end-->
