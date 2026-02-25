@@ -61,11 +61,3 @@
 | [so_long](https://github.com/Ja1m3st/so_long) | 2D tile-based game with miniLibX | C |
 
 ---
-
-<div align="center">
-
-![Ja1m3st's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja1m3st&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1m3st&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
