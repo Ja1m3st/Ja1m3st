@@ -19,12 +19,14 @@
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Web**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -48,6 +50,7 @@
 | Project | Description | Language |
 |---|---|---|
 | [ft_transcendence](https://github.com/T-D-A-H/ft_transcendencer) | Full-stack Pong platform — real-time multiplayer, blockchain, ELK, OAuth | TypeScript / JS |
+| [Hypertube](https://github.com/Ja1m3st/Hypertube) | Video streaming platform — BitTorrent, TMDB, OAuth, subtitles | Java / TypeScript |
 | [webserv](https://github.com/T-D-A-H/webserv) | HTTP/1.1 server from scratch — epoll, CGI, cookies, non-blocking I/O | C++ |
 | [cub3D](https://github.com/T-D-A-H/Cub3D) | Raycasting engine — Backrooms theme, all 5 bonuses | C |
 | [minishell](https://github.com/T-D-A-H/Minishell) | Bash-like shell — pipes, redirections, logical operators, here_doc | C |
