@@ -36,6 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Infrastructure**
 
@@ -49,8 +50,8 @@
 
 | Project | Description | Language |
 |---|---|---|
-| [ft_transcendence](https://github.com/T-D-A-H/ft_transcendencer) | Full-stack Pong platform — real-time multiplayer, blockchain, ELK, OAuth | TypeScript / JS |
 | [Hypertube](https://github.com/Ja1m3st/Hypertube) | Video streaming platform — BitTorrent, TMDB, OAuth, subtitles | Java / TypeScript |
+| [ft_transcendence](https://github.com/T-D-A-H/ft_transcendencer) | Full-stack Pong platform — real-time multiplayer, blockchain, ELK, OAuth | TypeScript / JS |
 | [webserv](https://github.com/T-D-A-H/webserv) | HTTP/1.1 server from scratch — epoll, CGI, cookies, non-blocking I/O | C++ |
 | [cub3D](https://github.com/T-D-A-H/Cub3D) | Raycasting engine — Backrooms theme, all 5 bonuses | C |
 | [minishell](https://github.com/T-D-A-H/Minishell) | Bash-like shell — pipes, redirections, logical operators, here_doc | C |
