@@ -50,7 +50,7 @@
 
 | Project | Description | Language |
 |---|---|---|
-| [Fix-me](https://github.com/Ja1m3st/fix-me) | Market simulation system — custom FIX 4.2 protocol over raw Java NIO sockets | Java |
+| [Fix-me](https://github.com/Ja1m3st/fix-me) | Market simulation system — FIX 4.2 protocol over raw Java NIO sockets | Java |
 | [Hypertube](https://github.com/Ja1m3st/Hypertube) | Video streaming platform — BitTorrent, TMDB, OAuth, subtitles | Java / TypeScript |
 | [ft_transcendence](https://github.com/T-D-A-H/ft_transcendencer) | Full-stack Pong platform — real-time multiplayer, blockchain, ELK, OAuth | TypeScript / JS |
 | [webserv](https://github.com/T-D-A-H/webserv) | HTTP/1.1 server from scratch — epoll, CGI, cookies, non-blocking I/O | C++ |
