@@ -46,9 +46,7 @@
 
 ---
 
-## 42 Madrid — Common Core
-
-| Project | Description | Language |
+| Projects | Description | Language |
 |---|---|---|
 | [Fix-me](https://github.com/Ja1m3st/fix-me) | Market simulation system — FIX 4.2 protocol over raw Java NIO sockets | Java |
 | [Hypertube](https://github.com/Ja1m3st/Hypertube) | Video streaming platform — BitTorrent, TMDB, OAuth, subtitles | Java / TypeScript |
